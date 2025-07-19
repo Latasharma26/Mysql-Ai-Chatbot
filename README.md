@@ -129,3 +129,4 @@ If you get a parsing error, just re-ask, simplify the prompt, or increase max_it
 Best results come from clear, table-matching column names and questions
 
 📷 Demo Screenshot
+<img width="1863" height="803" alt="image" src="https://github.com/user-attachments/assets/f1f55b87-b4b3-4db7-aee5-c88f4fab913c" />
